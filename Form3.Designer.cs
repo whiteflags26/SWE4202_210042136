@@ -49,9 +49,9 @@
             this.WelcomeLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.WelcomeLabel.Location = new System.Drawing.Point(305, 159);
             this.WelcomeLabel.Name = "WelcomeLabel";
-            this.WelcomeLabel.Size = new System.Drawing.Size(23, 20);
+            this.WelcomeLabel.Size = new System.Drawing.Size(77, 20);
             this.WelcomeLabel.TabIndex = 7;
-            this.WelcomeLabel.Text = "m";
+            this.WelcomeLabel.Text = "message";
             // 
             // Form3
             // 
