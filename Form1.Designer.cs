@@ -99,7 +99,7 @@
             this.CreateOneLinkLabel.AutoSize = true;
             this.CreateOneLinkLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CreateOneLinkLabel.LinkColor = System.Drawing.Color.Red;
-            this.CreateOneLinkLabel.Location = new System.Drawing.Point(192, 179);
+            this.CreateOneLinkLabel.Location = new System.Drawing.Point(207, 179);
             this.CreateOneLinkLabel.Name = "CreateOneLinkLabel";
             this.CreateOneLinkLabel.Size = new System.Drawing.Size(95, 20);
             this.CreateOneLinkLabel.TabIndex = 6;

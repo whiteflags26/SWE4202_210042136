@@ -107,7 +107,7 @@
             this.LoginLinkLabel.AutoSize = true;
             this.LoginLinkLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LoginLinkLabel.LinkColor = System.Drawing.Color.Red;
-            this.LoginLinkLabel.Location = new System.Drawing.Point(224, 256);
+            this.LoginLinkLabel.Location = new System.Drawing.Point(248, 256);
             this.LoginLinkLabel.Name = "LoginLinkLabel";
             this.LoginLinkLabel.Size = new System.Drawing.Size(59, 20);
             this.LoginLinkLabel.TabIndex = 7;

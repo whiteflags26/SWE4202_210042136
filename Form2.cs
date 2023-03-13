@@ -48,7 +48,19 @@ namespace lab09
                             f1.Show();
                             this.Hide();
                         }
+                        else
+                        {
+                            MessageBox.Show("Passwords do not match!");
+                        }
                     }
+                    else
+                    {
+                        MessageBox.Show("A user with the same user name already exists!");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Username and password must be at least six characters!");
                 }
             }
                     
