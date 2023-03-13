@@ -44,11 +44,21 @@ namespace lab09
                             File.AppendAllText(file, "\n");
                             File.AppendAllText(file, PasswordTextBox.Text);
                             File.AppendAllText(file, "\n");
+                            Form1 f1 = new Form1();
+                            f1.Show();
+                            this.Hide();
                         }
                     }
                 }
             }
                     
+        }
+
+        private void LoginLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+            this.Hide();
         }
     }
 }
