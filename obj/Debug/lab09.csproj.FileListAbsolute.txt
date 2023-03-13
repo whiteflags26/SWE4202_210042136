@@ -9,3 +9,5 @@ C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.csproj.GenerateResourc
 C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.csproj.CoreCompileInputs.cache
 C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.exe
 C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.pdb
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.Form2.resources
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.Form3.resources

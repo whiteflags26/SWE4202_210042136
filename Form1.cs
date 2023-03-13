@@ -17,6 +17,11 @@ namespace lab09
             InitializeComponent();
         }
 
-       
+        private void CreateOneLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.Show();
+            this.Hide();
+        }
     }
 }
